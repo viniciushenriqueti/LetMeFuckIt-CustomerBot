@@ -14,7 +14,7 @@ python letmefuckit-customer.py --url "https://magento.store.com" --number 10 --v
 ![Command](printscreen.jpg)
 
 
-## Opções ##
+## Options ##
 
 --url <url>
 --verbose
